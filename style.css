@@ -29,6 +29,7 @@ body {
     background-color: var(--fundo);
     color: white;
     perspective: 100000px;
+    user-select: none;
 }h1 {
     font-size: 4rem;
     font-family: var(--letra), Arial, Helvetica, sans-serif;
@@ -501,6 +502,7 @@ section {
 }
 
 }
+
 
 
 
