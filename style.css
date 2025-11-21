@@ -16,11 +16,10 @@ sem a altorização do altor.-- */
 
 :root {
     --letra: 'Momo Trust Sans', Arial, Helvetica, sans-serif;
-    --cor1: rgb(21, 247, 255);
+    --cor1: rgb(138, 21, 255);
     --fundo: rgb(28, 28, 28);
-    --fundoitem: rgb(3, 62, 65);
+    --fundoitem: rgb(40, 9, 63);
 }
-
 html {
     font-size: 1.2vw;
 }
@@ -594,6 +593,7 @@ input:valid~label {
 }
 
 }
+
 
 
 
